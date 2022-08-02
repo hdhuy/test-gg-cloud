@@ -1,0 +1,7 @@
+D:\1. Projects\1. Revit Addon\5. Dự án mẫu\MacromanAPI\MacromanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\MacromanAPI.exe
+D:\1. Projects\1. Revit Addon\5. Dự án mẫu\MacromanAPI\MacromanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\1. Projects\1. Revit Addon\5. Dự án mẫu\MacromanAPI\MacromanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\1. Projects\1. Revit Addon\5. Dự án mẫu\MacromanAPI\MacromanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\MacromanAPI.dll
+D:\1. Projects\1. Revit Addon\5. Dự án mẫu\MacromanAPI\MacromanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\MacromanAPI.deps.json
+D:\1. Projects\1. Revit Addon\5. Dự án mẫu\MacromanAPI\MacromanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\MacromanAPI.runtimeconfig.json
+D:\1. Projects\1. Revit Addon\5. Dự án mẫu\MacromanAPI\MacromanAPI\obj\Release\netcoreapp3.1\PubTmp\Out\MacromanAPI.pdb

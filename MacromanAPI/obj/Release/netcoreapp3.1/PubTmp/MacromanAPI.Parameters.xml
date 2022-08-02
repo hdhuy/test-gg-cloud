@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="http://34.84.102.86/" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\1\.\ Projects\\1\.\ Revit\ Addon\\5\.\ Dự\ án\ mẫu\\MacromanAPI\\MacromanAPI\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
